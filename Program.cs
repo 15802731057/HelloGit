@@ -7,7 +7,7 @@ namespace HelloGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("I say NO IOS.");
+            Console.WriteLine("I say YES IOS.");
         }
     }
 }

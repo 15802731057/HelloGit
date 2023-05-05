@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\vs2019Study\\HelloGit2\\HelloGit.csproj": {}
+    "C:\\Users\\hp\\source\\vs2019Study\\HG1\\HelloGit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\vs2019Study\\HelloGit2\\HelloGit.csproj": {
+    "C:\\Users\\hp\\source\\vs2019Study\\HG1\\HelloGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\vs2019Study\\HelloGit2\\HelloGit.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\source\\vs2019Study\\HG1\\HelloGit.csproj",
         "projectName": "HelloGit",
-        "projectPath": "C:\\Users\\hp\\source\\vs2019Study\\HelloGit2\\HelloGit.csproj",
+        "projectPath": "C:\\Users\\hp\\source\\vs2019Study\\HG1\\HelloGit.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\vs2019Study\\HelloGit2\\obj\\",
+        "outputPath": "C:\\Users\\hp\\source\\vs2019Study\\HG1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

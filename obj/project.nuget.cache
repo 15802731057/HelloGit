@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tzUFNTQsp2jybqv+ScGQm6dW7qhaH5rAcrviqgpSFwWKJq/TWm76jJlyL02jtBokHvY/XIkKWfA1TmgRJBsXUA==",
+  "dgSpecHash": "utEcWhPBt3hF+G3kyOtJnxs0nbt24i4l2MbZ1/OmplHG3XKihJ6kWi3hUYqLoGuQUADQY2PBMuxIn13/I1VQ3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\source\\vs2019Study\\HelloGit2\\HelloGit.csproj",
+  "projectFilePath": "C:\\Users\\hp\\source\\vs2019Study\\HG1\\HelloGit.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
